@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android-data-binding</string>
+    <string name="login">登录</string>
+</resources>
